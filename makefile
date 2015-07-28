@@ -15,4 +15,4 @@ main.o:main.cpp
 cosamp_opencl.o:cosamp_opencl.cpp
 	$(CXX) -c cosamp_opencl.cpp -o cosamp_opencl.o
 clean:
-	rm CS *.o	
+	rm -rf CS *.o	

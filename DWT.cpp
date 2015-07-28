@@ -1,5 +1,5 @@
 
-#include "math.h"
+#include <math.h>
 #include <iostream>
 #include "head.h"
 //using namespace std;

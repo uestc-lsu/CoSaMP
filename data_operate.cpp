@@ -1,10 +1,10 @@
-#include "gdal_priv.h"
+#include <gdal/gdal_priv.h>
 #include <iostream>
 #include <iomanip> 
 #include <string.h>
 #include <fstream> 
 #include <ctype.h>
-#include "cpl_string.h"
+#include <gdal/cpl_string.h>
 #include <iostream>
 using namespace std;
 #pragma comment(lib, "gdal_i.lib")
